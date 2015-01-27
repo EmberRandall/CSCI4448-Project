@@ -1,0 +1,34 @@
+---
+title: "Project Proposal"
+author: "William Farmer, Emily Randall, Alec Martin, Samuel Volin, Cris Salazar"
+date: "01/27/2015"
+output: pdf_document
+---
+
+**Team:** William Farmer, Emily Randall, Alec Martin, Samuel Volin, Cris Salazar
+
+**Title:** Rubiks Mobile
+
+**Description:** A mobile app implementing the popular Rubiks Cube including the ability to scramble and solve. Initial goal will be to create a 3d model cube that can be rotated around for inspection at any angle along with the necessary rotations of the varying faces. Secondary goals will be to integrate with Google Play and create a leaderboard.
+
+**Platform/Environment:** Android with Java
+
+**Java Language Proficiency:**
+
+* Will Farmer: Intermediate
+* Emily Randall:
+* Alec Martin:
+* Samuel Volin:
+* Cris Salazar:
+
+**Functionality:**
+
+* Users view the cube in 3 dimensions 
+* Users can rotate the cube
+* Users can move the slices of the cube in the ways a physical Rubik's cube moves
+* Users can scramble the cube
+
+**Stretch Functionality:**
+
+* Different sizes of cubes can be presented
+* A help button gives hints about the best move to make next
